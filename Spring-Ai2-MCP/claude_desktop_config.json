@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "shopping-cart-server": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "D:\\Spring-Ai2-MCP\\target\\shopping-cart-server.jar"
+      ]
+    }
+  }
+}
