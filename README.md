@@ -1,0 +1,1 @@
+Updated Spring AI project documentation - November 2026.
